@@ -25,5 +25,4 @@ tornado==6.0.3
 typing-extensions==3.7.4.1
 bs4
 keras
-tensorflow
 requests
